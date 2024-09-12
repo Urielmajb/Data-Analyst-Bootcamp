@@ -1,0 +1,8 @@
+Pasos para limpiar data en Excel 
+
+- Hacer una copia del documento original y trabajar sobre este.
+- Remover los duplicados.
+- Ver que todos los textos esten en una solo formato ya sea en Mayuscula, Minuscula o Modo Oracion.
+- Borrar los espacios que hay en losdatos
+- Si hay digitos, pasarlos a su estado original, sin las monedas.
+- Eliminar datos innecesarios que no se utilicen del todo.
